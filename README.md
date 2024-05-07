@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div style="display: inline_block"><br>
-mport FigmaOriginal from "react-devicons/figma/original";
+import FigmaOriginal from "react-devicons/figma/original";
 
 <FigmaOriginal />
   ##
