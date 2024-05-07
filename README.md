@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div style="display: inline_block"><br>
- <img src = " https://devicon-website.vercel.app / api/ figma / original .svg " > </img>
+ <img src="https://devicon-website.vercel.app / api/ figma / original.svg"></img>
 </div>
   
   ##
