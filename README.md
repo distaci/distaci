@@ -1,7 +1,8 @@
 ### Hi there 👋
 <div style="display: inline_block"><br>
- <img src="https://devicon-website.vercel.app / api/ figma / original.svg"></img>
-</div>
+ <i class="devicon-figma-plain"></i>
+<!-- Place this in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
   
   ##
  
