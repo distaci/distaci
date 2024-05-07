@@ -1,9 +1,8 @@
 ### Hi there 👋
 <div style="display: inline_block"><br>
- <i class="devicon-figma-plain"></i>
-<!-- Place this in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-  
+mport FigmaOriginal from "react-devicons/figma/original";
+
+<FigmaOriginal />
   ##
  
 <div> 
