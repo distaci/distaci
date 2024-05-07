@@ -1,8 +1,7 @@
 ### Hi there 👋
 <div style="display: inline_block"><br>
-import FigmaOriginal from "react-devicons/figma/original";
-
-<FigmaOriginal />
+<img src="https://devicon-website.vercel.app/api/figma/original.svg">
+</img>
   ##
  
 <div> 
