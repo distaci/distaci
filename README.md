@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div style="display: inline_block"><br>
-<img align="center" alt="Dis-Js" height="30" width="40" src = " https://devicon-website.vercel.app / api/ figma / original .svg " > </img>
+<img src = " https://devicon-website.vercel.app / api/ figma / original .svg " > ?cor=%23F24E1E</img>
   
  
 <div> 
