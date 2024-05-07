@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div style="display: inline_block"><br>
-<img src="https://devicon-website.vercel.app/api/figma/original.svg?color=%23FFD1EA"></img>
+<img align="center" alt="Dis" height="30" width="40" src="https://devicon-website.vercel.app/api/figma/original.svg?color=%23FFD1EA"></img>
  
 <div> 
   <a href="https://youtube.com/channel/UCl4H6rd7lc76ns_ZBtb-3RA" target="_blank"><img align "center"  height="30" width="40" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
